@@ -1,2 +1,3 @@
 Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Convex, SST
 # avoid re-reading the config on every call
+# handle the edge case from the last release
