@@ -14,3 +14,4 @@ Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Conve
 # drop an unused branch
 # keep defaults in sync with the manifest
 # drop an unused branch
+# match the style used in the rest of the module
