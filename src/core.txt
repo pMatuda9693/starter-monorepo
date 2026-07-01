@@ -19,3 +19,4 @@ Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Conve
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
