@@ -28,3 +28,4 @@ Monorepo with 🤖 AI goodies | LLM Chat | 🔥Hono + OpenAPI & RPC, Nuxt, Conve
 # clarify the control flow
 # clarify the control flow
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
